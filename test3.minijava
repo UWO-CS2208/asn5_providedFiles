@@ -1,0 +1,13 @@
+bipush 123
+dup
+dup
+dup
+iprint
+pop
+iprint
+pop
+iprint
+pop
+iprint
+pop
+return

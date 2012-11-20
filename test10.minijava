@@ -1,0 +1,6 @@
+bipush 4
+iconst_0
+iprint
+irem
+iprint
+return

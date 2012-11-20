@@ -1,0 +1,19 @@
+bipush 127
+bipush 32
+imul
+i2c
+iprint
+bipush -1
+i2c
+iprint
+bipush 127
+bipush 32
+imul
+i2b
+iprint
+bipush 27
+bipush 32
+imul
+i2b
+iprint
+return

@@ -1,0 +1,9 @@
+bipush 5
+iprint
+bipush 1
+isub
+dup
+ifne -5
+iprint
+return
+
