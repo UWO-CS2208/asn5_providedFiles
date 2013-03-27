@@ -1,9 +1,0 @@
-bipush 5
-bipush 1
-isub
-iprint
-dup
-ifne 6
-goto 6
-goto -11
-return
