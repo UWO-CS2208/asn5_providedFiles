@@ -1,0 +1,8 @@
+bipush 8
+bipush 5
+iprint
+goto 4 
+pop
+iprint
+return
+

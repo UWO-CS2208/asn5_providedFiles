@@ -1,0 +1,24 @@
+bipush -1
+istore 0
+bipush -128
+istore 1
+bipush 127
+istore 11
+iload 0
+bipush 3
+iadd
+istore 0
+iload 11
+iload 1
+imul
+istore 10
+iload 0
+iprint
+iload 1
+iprint
+iload 10
+iprint
+pop
+pop
+pop
+return

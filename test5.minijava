@@ -1,0 +1,8 @@
+iconst_0
+bipush 1
+iprint
+swap
+iprint
+pop
+iprint
+return

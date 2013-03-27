@@ -1,0 +1,9 @@
+iconst_0
+dup
+bipush 5
+if_icmpeq 9 
+bipush 1
+iadd
+goto -9
+iprint
+return

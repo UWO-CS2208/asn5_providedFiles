@@ -1,0 +1,14 @@
+bipush 127
+dup
+iand
+iprint
+dup
+ior
+iprint
+bipush 1
+iand
+iprint
+bipush 127
+ior
+iprint
+return
